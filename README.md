@@ -3,7 +3,7 @@
 
 ## Informações Gerais
 Coloque aqui os seus dados
-- Nome: 
+- Nome: Bruna Batista Scalabrini
 - Matricula:
 
 ## Tela de inspeção com navegador
